@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <head>
 <title>Villa Marina Benalmádena</title>
 <meta charset="utf-8">
@@ -172,4 +170,3 @@
 <script src="index.js"></script>
 
 </body>
-</html>
